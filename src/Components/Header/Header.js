@@ -32,7 +32,7 @@ const Header = () => {
             </div>
 
             <i onClick={menu} className="fa-solid fa-bars"></i>
-            <i onClick={close} class="fa-solid fa-xmark"></i>
+            <i onClick={close} className="fa-solid fa-xmark"></i>
            
                 
             <div id='mobile-menu'>
